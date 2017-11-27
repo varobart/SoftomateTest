@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SoftomateTest</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_text_fragment_title">Language detection</string>
+    <string name="history_fragment_title">History</string>
+    <string name="warning">WARNING</string>
+    <string name="ok">OK</string>
+    <string name="unidentified_language">Language of your text can\'t be identified.
+        Pleas enter more words.</string>
+    <string name="already_added">You have already added this text to history</string>
+    <string name="no_internet_connection">You have no internet connection</string>
+    <string name="edit_text_hint">Input new text</string>
+    <string name="new_text">New text</string>
+    <string name="history">History</string>
+    <string name="text_was_added">Text was added to history</string>
+    <string name="this_is_enough">Text\'s language has been identified</string>
+    <string name="continue_to_enter">Language hasn\'t been identified yet</string>
+</resources>
